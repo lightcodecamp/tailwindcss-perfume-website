@@ -1,0 +1,75 @@
+~~~~~~~~~~~~~~~ image links  ~~~~~~~~~~~~~~~
+https://www.freepik.com/
+https://pngtree.com/
+https://pixabay.com/
+
+~~~~~~~~~~~~~~~ Title  ~~~~~~~~~~~~~~~
+Perfume Website || TailwindCSS 
+
+~~~~~~~~~~~~~~~ Navbar ~~~~~~~~~~~~~~~
+perfume.
+Home | Collection | Popular | About
+
+~~~~~~~~~~~~~~~ Hero Section ~~~~~~~~~~~~~~~
+FRA <br>
+GRA <br>
+NCE
+Celestia.
+made of stardust
+
+Celestia is a unique perfume, drawn from the rarest meteorites, and is the only one to be sourced from the stars.
+
+~~~~~~~~~~~~~~~ Collection ~~~~~~~~~~~~~~~
+Collection
+Things you need to know
+
+Real Stardust
+We’ve sourced the finest meteorites and have extracted the very essence of the universe.
+
+~~~~~~~~~~~~~~~ Popular ~~~~~~~~~~~~~~~
+Popular
+Things you need to know
+
+TOP STAFF PICK
+Best Collection
+Use code: LIGHTCODE Get <br> 
+25% Off for all items!
+Shop now
+
+Collection Arrived
+You have no items & Are you ready to use? come & shop with us!
+Price from: <span class="text-2xl font-bold">$45.00</span>
+Shop now
+
+~~~~~~~~~~~~~~~ banner ~~~~~~~~~~~~~~~
+EU Free Delivery
+Free Delivery on all order from EU
+with price more than $90.00
+
+Money Guarantee
+30 Days money back guarantee
+no question asked!
+
+Online Support 24/7
+We’re here to support to you.
+Let’s shopping now!
+
+~~~~~~~~~~~~~~~ About ~~~~~~~~~~~~~~~
+About Celestia
+Things you need to know
+
+TOP STAFF PICK
+Best Collection
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus magnam, consequuntur atque, deserunt commodi eos et dolores totam repudiandae incidunt mollitia quis neque consectetur dolorum aut officiis blanditiis, maxime saepe.
+
+Lorem ipsum dolor sit amet consectetur, adipisicing elit. Natus magnam, consequuntur atque, deserunt commodi
+
+Shop now
+
+~~~~~~~~~~~~~~~ Footer ~~~~~~~~~~~~~~~
+Newsletter
+Sign up for our free video course and urban garden inspiration
+
+Subscribe
+
+Copyright &copy; 2024 LightCode. All rights reserved.
